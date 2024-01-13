@@ -4,10 +4,10 @@ To run the synchronization Python program, use the following command in the comm
 python synchronize_two_folders.py path/to/the/source path/to/the/replica 10 path/to/the/log
 ```
 This command takes four arguments:
-->The first one is the path to the source directory.
-->The second one is the path to the replica directory.
-->The third one is the number of seconds, specifying the interval at which the synchronization will be executed.
-->The last one is the path to the log file.
+- >The first one is the path to the source directory.
+- >The second one is the path to the replica directory.
+- >The third one is the number of seconds, specifying the interval at which the synchronization will be executed.
+- >The last one is the path to the log file.
 
 Here's an example of usage:
 ```bash
